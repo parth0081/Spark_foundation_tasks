@@ -2,6 +2,10 @@
 
 PROBLEM STATEMENT- *We have to predict the percentage of marks that student is expected to score based upon the number of hours of studying.*
 
+
+**DATASET**- http://bit.ly/w-data
+
+
 In our dataset we have two columns- 
 
 a) Hours (no. of hours the student studies) : *Independent Variable*
